@@ -1,0 +1,74 @@
+[
+{
+    "id":24,
+    "breed": "Balady",
+    "age":"2 years",
+    "name": "Zane",
+    "image": "../photos/balady.jpg",
+    "sheltername":"ESMA Cats Shelter",
+    "shelternumber":"01222188823"
+},
+{
+    "id":25,
+    "breed": "Egyptian Mau",
+    "age":"1 year",
+    "name": "Ashe",
+    "image": "../photos/egypt.jpg",
+    "sheltername":"Hope Rescue Shelter",
+        "shelternumber":"01122226341"
+},
+{
+    "id":26,
+    "breed": "Korat",
+    "age":"2 years",
+    "name": "Zeeko",
+    "image": "../photos/korat.jpg",
+    "sheltername":"Animal Protection Foundation Shelter",
+        "shelternumber":"01221104994"
+},
+{
+    "id":27,
+    "breed": "Snowshoe",
+    "age":"1 year",
+    "name": "Loki",
+    "image": "../photos/snowshoe.jpg",
+    "sheltername":"Hope Rescue Shelter",
+        "shelternumber":"01122226341"
+},
+{
+    "id":28,
+    "breed": "Somali",
+    "age":"1.5 years",
+    "name": "Fox",
+    "image": "../photos/Somali.jpg",
+    "sheltername":"Hope Rescue Shelter",
+        "shelternumber":"01122226341"
+},
+{
+    "id":29,
+    "breed": "Somali",
+    "age":"2 years",
+    "name": "Dusty",
+    "image": "../photos/Somali2jpg.jpg",
+    "sheltername":"Animal Protection Foundation Shelter",
+        "shelternumber":"01221104994"
+},
+{
+    "id":30,
+    "breed": "Turkish Angora",
+    "age":"3 years",
+    "name": "Snow",
+    "image": "../photos/turkish2.jpg",
+    "sheltername":"ESMA Cats Shelter",
+    "shelternumber":"01222188823"
+},
+{
+    "id":31,
+    "breed": "Turkish Angora",
+    "age":"4 years",
+    "name": "Cloud",
+    "image": "../photos/turkish.jpg",
+    "sheltername":"Animal Protection Foundation Shelter",
+        "shelternumber":"01221104994"
+}
+]

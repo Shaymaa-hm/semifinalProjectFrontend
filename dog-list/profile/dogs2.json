@@ -1,0 +1,73 @@
+[{
+    "id":8,
+    "age":"3 years",
+    "breed": "Labrador",
+    "name": "Caramel",
+    "image": "../photos/lab.jpg",
+    "sheltername":"Hope Rescue Shelter",
+    "shelternumber":"01122226341"
+},
+{
+    "id":9,
+    "age":"2 years",
+    "breed": "Pitbull Labrador Mix",
+    "name": "Zakaria",
+    "image": "../photos/pitlab.jpg",
+    "sheltername":"Animal Protection Foundation Shelter",
+    "shelternumber":"01221104994"
+},
+{
+    "id":10,
+    "age":"1 year",
+    "breed": "Pomeranian",
+    "name": "Cloud",
+    "image": "../photos/pom.jpg",
+    "sheltername":"CART Dog Shelter",
+    "shelternumber":"01061611870"
+},
+{
+    "id":11,
+    "age":"6 months",
+    "breed": "German Shepherd",
+    "name": "June",
+    "image": "../photos/ger2.jpg",
+    "sheltername":"Hope Rescue Shelter",
+    "shelternumber":"01122226341"
+},
+{
+    "id":12,
+    "age":"1 year",
+    "breed": "Chihuahua",
+    "name": "Belle",
+    "image": "../photos/chi.jpg",
+    "sheltername":"Animal Protection Foundation Shelter",
+    "shelternumber":"01221104994"
+},
+{
+    "id":13,
+    "age":"10 months",
+    "breed": "Golden Retriever",
+    "name": "Hazy",
+    "image": "../photos/golden2.jpg",
+    "sheltername":"CART Dog Shelter",
+    "shelternumber":"01061611870"
+},
+{
+    "id":14,
+    "age":"4 months",
+    "breed": "Golden Retriever",
+    "name": "Cream",
+    "image": "../photos/golden3.jpg",
+    "sheltername":"CART Dog Shelter",
+    "shelternumber":"01061611870"
+},
+{
+    "id":15,
+    "age":"1.5 years",
+    "breed": "Beagle",
+    "name": "Puffy",
+    "image": "../photos/beagle2.jpg",
+    "sheltername":"CART Dog Shelter",
+    "shelternumber":"01061611870"
+}
+]

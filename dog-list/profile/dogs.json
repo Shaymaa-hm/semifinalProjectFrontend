@@ -1,0 +1,74 @@
+[{
+    "id":0,
+    "breed": "Golden Retriever",
+    "age":"5 months",
+    "name": "Pluto",
+    "image": "../photos/golden.jpeg",
+    "sheltername":"Hope Rescue Shelter",
+    "shelternumber":"01122226341"
+},
+{
+    "id":1,
+    "breed": "Husky",
+    "age":"1 year",
+    "name": "Sky",
+    "image": "../photos/husky.png",
+    "sheltername":"Hope Rescue Shelter",
+    "shelternumber":"01122226341"
+},
+{
+    "id":2,
+    "breed": "Shih Tzu",
+    "age":"1.5 years",
+    "name": "Bella",
+    "image": "../photos/shih.jpg",
+    "sheltername":"Animal Protection Foundation Shelter",
+    "shelternumber":"01221104994"
+},
+{
+    "id":3,
+    "breed": "Border Collie",
+    "age":"11 months",
+    "name": "May",
+    "image": "../photos/collie.jpg",
+    "sheltername":"CART Dog Shelter",
+    "shelternumber":"01061611870"
+},
+{
+    "id":4,
+    "breed": "German Shepherd",
+    "age":"4 months",
+    "name": "Sirius",
+    "image": "../photos/german.jpeg",
+    "sheltername":"Animal Protection Foundation Shelter",
+    "shelternumber":"01221104994"
+},
+{
+    "id":5,
+    "breed": "Pitbull",
+    "age":"3 months",
+    "name": "Ash",
+    "image": "../photos/pitbull.jpg",
+    "sheltername":"CART Dog Shelter",
+    "shelternumber":"01061611870"
+},
+{
+    "id":6,
+    "breed": "Australian Shepherd",
+    "age":"1.5 years",
+    "name": "Hazel",
+    "image": "../photos/hazel.jpg",
+    "sheltername":"Hope Rescue Shelter",
+    "shelternumber":"01122226341"
+    
+},
+{
+    "id":7,
+    "breed": "Beagle",
+    "age":"7 months",
+    "name": "Boogie",
+    "image": "../photos/beagle.jpg",
+    "sheltername":"CART Dog Shelter",
+    "shelternumber":"01061611870"
+}
+]

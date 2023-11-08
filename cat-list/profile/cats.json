@@ -1,0 +1,74 @@
+[
+    {
+        "id":16,
+        "breed": "British Shorthair",
+        "name": "Lilly",
+        "age":"4 months",
+        "image": "../photos/british.jpg",
+        "sheltername":"ESMA Cats Shelter",
+        "shelternumber":"01222188823"
+    },
+    {
+        "id":17,
+        "breed": "Ragdoll",
+        "name": "Oreo",
+        "age":"2 years",
+        "image": "../photos/ragdoll.jpg",
+        "sheltername":"Animal Protection Foundation Shelter",
+        "shelternumber":"01221104994"
+    },
+    {
+        "id":18,
+        "breed": "Ragdoll",
+        "name": "June",
+        "age":"3 years",
+        "image": "../photos/ragdoll2.jpg",
+        "sheltername":"Hope Rescue Shelter",
+        "shelternumber":"01122226341"
+    },
+    {
+        "id":19,
+        "breed": "Norwegian Forest Cat",
+        "age":"3.5 years",
+        "name": "Zoe",
+        "image": "../photos/norwegian.jpg",
+        "sheltername":"Animal Protection Foundation Shelter",
+        "shelternumber":"01221104994"
+    },
+    {
+        "id":20,
+        "breed": "Scottish Fold",
+        "name": "Rose",
+        "age":"3.5 years",
+        "image": "../photos/scottish.jpg",
+        "sheltername":"Hope Rescue Shelter",
+        "shelternumber":"01122226341"
+    },
+    {
+        "id":21,
+        "breed": "Siamese",
+        "name": "Latte",
+        "age":"2 months",
+        "image": "../photos/siamese.jpg",
+        "sheltername":"Animal Protection Foundation Shelter",
+        "shelternumber":"01221104994"
+    },
+    {
+        "id":22,
+        "breed": "Maine Coon",
+        "name": "Flash",
+        "age":"3.5 years",
+        "image": "../photos/maine.jpg",
+        "sheltername":"Hope Rescue Shelter",
+        "shelternumber":"01122226341"
+    },
+    {
+        "id":23,
+        "breed": "Maine Coon",
+        "name": "Gaafar",
+        "age":"4 years",
+        "image": "../photos/maine2.jpg",
+        "sheltername":"Hope Rescue Shelter",
+        "shelternumber":"01122226341"
+    }
+]
